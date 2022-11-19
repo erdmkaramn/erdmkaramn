@@ -26,7 +26,4 @@
 </p>
 <br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy ">
-    <img src="https://github-profile-trophy.vercel.app/?username=erdmkaramn" alt="erdmkaramn" /></a> </p>
-
 <p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg"><img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" alt="enter image description here" style="max-width: 100%;"></a></p>
